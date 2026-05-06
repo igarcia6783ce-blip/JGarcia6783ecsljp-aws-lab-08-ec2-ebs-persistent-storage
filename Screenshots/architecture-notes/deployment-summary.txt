@@ -1,0 +1,1 @@
+This directory contains deployment flow notes, AWS resource relationships, and architecture explanations for the EC2 and EBS persistent storage implementation.
