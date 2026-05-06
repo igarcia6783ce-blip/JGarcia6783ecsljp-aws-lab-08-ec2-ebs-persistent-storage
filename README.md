@@ -11,4 +11,4 @@ AWS EC2 and Elastic Block Store persistent storage deployment with Linux filesys
 ![EBS Mount Validation](Screenshots/IMG_20260506_051221.jpg)
 
 ### Persistent Storage Validation
-![Persistent Storage Validation](Screenshots/IMG_20260506_051223.jpg)
+![Persistent Storage Validation](Screenshots/IMG_20260506_051226.jpg)
